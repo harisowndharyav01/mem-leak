@@ -1,0 +1,9 @@
+<Object Name="SoftwareModules">
+  <Object Name="ExecutionUnit">
+    <Object Name="1">
+      <Parameter Name="Name" Value="memleak" />
+      <Parameter Name="ExecCommand" Value="/usr/bin/memleak" />
+      <Parameter Name="Status" Value="Enabled" />
+    </Object>
+  </Object>
+</Object>
